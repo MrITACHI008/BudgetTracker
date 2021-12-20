@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BudgetTracker/static/css/main.f3caa704.chunk.css",
+    "main.js": "/BudgetTracker/static/js/main.015db5f6.chunk.js",
+    "main.js.map": "/BudgetTracker/static/js/main.015db5f6.chunk.js.map",
+    "runtime-main.js": "/BudgetTracker/static/js/runtime-main.1619a9bb.js",
+    "runtime-main.js.map": "/BudgetTracker/static/js/runtime-main.1619a9bb.js.map",
+    "static/js/2.c14ffa1f.chunk.js": "/BudgetTracker/static/js/2.c14ffa1f.chunk.js",
+    "static/js/2.c14ffa1f.chunk.js.map": "/BudgetTracker/static/js/2.c14ffa1f.chunk.js.map",
+    "static/js/3.b8f37fd9.chunk.js": "/BudgetTracker/static/js/3.b8f37fd9.chunk.js",
+    "static/js/3.b8f37fd9.chunk.js.map": "/BudgetTracker/static/js/3.b8f37fd9.chunk.js.map",
+    "index.html": "/BudgetTracker/index.html",
+    "static/css/main.f3caa704.chunk.css.map": "/BudgetTracker/static/css/main.f3caa704.chunk.css.map",
+    "static/js/2.c14ffa1f.chunk.js.LICENSE.txt": "/BudgetTracker/static/js/2.c14ffa1f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BudgetTracker/static/media/jason-leung-SAYzxuS1O3M-unsplash.01cf3d98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1619a9bb.js",
+    "static/js/2.c14ffa1f.chunk.js",
+    "static/css/main.f3caa704.chunk.css",
+    "static/js/main.015db5f6.chunk.js"
+  ]
+}
